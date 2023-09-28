@@ -1,0 +1,3 @@
+ class ServerFailure{
+  ServerFailure.networkError();
+}
